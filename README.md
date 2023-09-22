@@ -50,9 +50,6 @@
 
 [3.4.1 Acknowledge [25](#acknowledge)](#acknowledge)
 
-**\
-**
-
 ## DOCUMENT HISTORY
 
 <table>
