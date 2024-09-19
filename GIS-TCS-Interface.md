@@ -8,48 +8,6 @@
 | **Approved by:**            | Ismael Ruiz de Argandoña |
 | **Date:**                   | 2019/06/06               |
 
-## INDEX
-
-[1. Introduction [4](#introduction)](#introduction)
-
-[2. Reference documents [4](#reference-documents)](#reference-documents)
-
-[3. List of variables [4](#list-of-variables)](#list-of-variables)
-
-[3.1 Subsystem -I/O decentralized- [5](#subsystem--io-decentralized-)](#subsystem--io-decentralized-)
-
-[3.1.1 CPU [5](#cpu)](#cpu)
-
-[3.1.2 AFE [7](#afe)](#afe)
-
-[3.1.3 LAS [9](#las)](#las)
-
-[3.1.4 M2C [11](#m2c)](#m2c)
-
-[3.1.5 PFL [13](#pfl)](#pfl)
-
-[3.2 Subsystems -CPUs- [15](#subsystems--cpus-)](#subsystems--cpus-)
-
-[3.2.1 AUX [15](#aux)](#aux)
-
-[3.2.2 DOME [17](#dome)](#dome)
-
-[3.2.3 M1M3 [18](#m1m3)](#m1m3)
-
-[3.2.4 TMA [19](#tma)](#tma)
-
-[3.3 Safety matrix [21](#safety-matrix)](#safety-matrix)
-
-[3.3.1 Causes [21](#causes)](#causes)
-
-[3.3.2 Bypass [22](#bypass)](#bypass)
-
-[3.3.3 Effects [23](#effects)](#effects)
-
-[3.4 Others [25](#others)](#others)
-
-[3.4.1 Acknowledge [25](#acknowledge)](#acknowledge)
-
 ## DOCUMENT HISTORY
 
 <table>
@@ -175,7 +133,7 @@ Finally, there will be an additional group that can not be classified in the pre
 In total 35 words of communication from 4x0000 up to 4x0034 are foreseen, where it has been tried to group by
 functionalities and remaining free bits for possible extensions.
 
-![](./media/media/image3.png)
+![pic](./media/media/image3.png)
 
 In principle, PC-Linux is configured as a server and with the indicated addresses, but can be changed depending on the
 requirements.
